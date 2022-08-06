@@ -4,7 +4,7 @@ from verify import generate_verification_img
 import asyncio
 import time
 
-bot = Bot(token='5599510861:AAGOhwcsyw_nHgQxKQnYziozC1zlCPPfF4Q')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 
