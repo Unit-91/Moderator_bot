@@ -1,2 +1,2 @@
-# moderator_bot
+# Moderator_bot
 Telegram bot moderator
